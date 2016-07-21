@@ -20,7 +20,7 @@ go build
 ### Config
 
 ```
-cp examlple.conf config.conf
+cp example.conf config.conf
 ```
 
 
